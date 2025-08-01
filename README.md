@@ -3,11 +3,11 @@
 
 This project is a comprehensive data analysis performed for KPMG using Microsoft Excel. The goal is to derive insights from customer and transaction data to support business decisions and identify growth opportunities.
 
-## 📊 Tools Used
+##  Tools Used
 
 - Microsoft Excel
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Clean and prepare raw customer and transaction data  
 - Perform exploratory data analysis (EDA)  
@@ -15,12 +15,12 @@ This project is a comprehensive data analysis performed for KPMG using Microsoft
 - Highlight areas of growth and optimization  
 - Provide actionable insights for business strategy
 
-## 📁 Files Included
+## Files Included
 
 - `KPMG Data Analysis PROJECT.xlsx`  
   Contains all the data cleaning, transformation, and analysis work done in Excel.
 
-## 🧭 How to Use
+## How to Use
 
 1. Download or open the `KPMG Data Analysis PROJECT.xlsx` file.
 2. Navigate through the various sheets:
@@ -29,19 +29,19 @@ This project is a comprehensive data analysis performed for KPMG using Microsoft
    - **Analysis**: Pivot tables, charts, and summary statistics
    - **Dashboard** (if included): Visual summary of findings
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Data inconsistencies were resolved and missing values handled
 - Customers were segmented based on demographic and transaction data
 - High-value customer segments were identified for targeted marketing
 - Opportunities for growth were highlighted based on purchase trends
 
-## ✅ Status
+##  Status
 
-✔️ Completed  
-📁 Single-file Excel project
+ Completed  
+ Single-file Excel project
 
-## 📌 Author
+## Author
 
 - **Abhi Sharma** (www.linkedin.com/in/abhi-sharma-105284326)
 
